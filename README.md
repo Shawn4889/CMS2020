@@ -1,7 +1,7 @@
 # CMS2020
 Savanna-Bio: Biomass estimation with new spaceborne missions for MRV in Dry Forests and Savannas
 
-# TEAM
+# TEAM MEMBER
 John Armston,  University of Maryland (PI)
 
 Konrad Wessels,  George Mason University (Co-PI)
