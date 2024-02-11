@@ -1,6 +1,33 @@
 # CMS2020
 Savanna-Bio: Biomass estimation with new spaceborne missions for MRV in Dry Forests and Savannas
 
+# TEAM
+John Armston,  University of Maryland (PI)
+
+Konrad Wessels,  George Mason University (Co-PI)
+
+Paul Siqueira,  University of Massachusetts (Co-PI)
+
+Laura Duncanson,  University of Maryland (Co-PI)
+
+Mikhail Urbazaev,  University of Maryland
+
+Narayanarao Bhogapurapu,  University of Massachusetts Amherst
+
+Xiaoxuan Li,  George Mason University
+
+Rajashekar Gopalakrishnan,  National Remote Sensing Centre
+
+Sean Healey,  USDA Forest Service
+
+Russell Main,  Scion
+
+Laven Naidoo,  Council for Scientific and Industrial Research (CSIR)
+
+Stuart Phinn,  University of Queensland
+
+Peter Scarth,  The University of Queensland
+
 # PUBLICATIONS
 
 Li, X., Wessels, K., Armston, J., Duncanson, L., Urbazaev, M., Naidoo, L., Mathieu R., & Main, R. (2024). Evaluation of GEDI Footprint-level Biomass Models in Southern African Savannas using ALS and Field Measurements. (Under review, Science of Remote Sensing).
@@ -9,7 +36,7 @@ Li, X., Wessels, K., Armston, J., Hancock, S., Mathieu, R., Main, R., ... & Scho
 
 Wessels, K., Li, X., Bouvet, A., Mathieu, R., Main, R., Naidoo, L., ... & Asner, G. P. (2023). Quantifying the sensitivity of L-Band SAR to a decade of vegetation structure changes in savannas. Remote Sensing of Environment, 284, 113369.
 
-# PRESENTATIONS AND CONFERENCE PAPERS:
+# PRESENTATIONS AND CONFERENCE PAPERS
 
 Li, X. (2023). Space-based LiDAR for Estimating Vegetation Structure in Savannas, University of Washington, May 18th, Seattle, WA.
 
@@ -28,3 +55,6 @@ Bhogapurapu, N., Siqueira, P., Armston, J., Li, X., Urbazaev, M., Wessels, K., D
 Li, X., Wessels, K., Armston, J., Hancock, S., Mathieu, R., Main, R., Naidoo, L., Erasmus, B., & Scholes, R. (2021). First Validation of GEDI Canopy Height in African Savannas, American Geophysical Union Annual Meeting, December 13th, New Orleans, LA.
 
 Li, X., Wessels, K., Armston, J., Hancock, S., Mathieu, R., Main, R., Naidoo, L., Erasmus, B., & Scholes, R. (2020). First Validation of GEDI Vegetation Structure Metrics in South African Savannas, American Geophysical Union Annual Meeting, December 8th, online.
+
+# LINKS:
+https://cce-datasharing.gsfc.nasa.gov/conferences/absbyid/6/39/h/1/
